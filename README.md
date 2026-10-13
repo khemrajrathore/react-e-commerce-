@@ -1,5 +1,5 @@
 
-An 8 page e-commerce website with the 
+An 8 page e-commerce website with the  
 home page,
 product detail page, 
 cart and checkout page, 
